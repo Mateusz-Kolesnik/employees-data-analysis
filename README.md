@@ -76,17 +76,20 @@ involving data extraction using SQL and data visualization using Tableau.
 
 # Outputs and visualization:
 Question 1 and Question 5 do not require visualization, therefore their answers remain presented in the form of tables:<br>
+
 Answer 1:<br>
 ![Answer_1](images/Answer_1.PNG)<br>
+
 Answer 5:<br>
 ![Answer_5](images/Answer_5.PNG)<br>
+<br>
 
 Remaining answers are presented in the final dashboard created in Tableau and can be found here:
 [Visualization in Tableau](https://public.tableau.com/app/profile/mateusz2359/viz/Employees_project/Employees_dashboard),<br>
 <br>
 ![visualization](images/visualization.PNG)
 
-#Conclusions:
+# Conclusions:
 The main conclusions that can be drawn from the analysis are as follows:
 1. There are currently 5 male managers and 4 female managers.
 2. Departments with the highest number of employees are Development (61,386) and Production (53,304).
