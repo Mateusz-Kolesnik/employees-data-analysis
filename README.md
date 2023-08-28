@@ -15,7 +15,7 @@ created by 365 Careers, available on Udemy.
 The dataset remains unaltered and in its original form,
 with no modifications made for the duration of this project.
 The original lines of the license text can be found within the SQL file
-and are also available in a separate "original_license" file.
+and are also available in a separate "original_license.txt" file.
 
 The employees database contains the following tables:
 departments
