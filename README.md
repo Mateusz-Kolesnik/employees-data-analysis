@@ -19,22 +19,22 @@ and are also available in a separate "original_license.txt" file.
 
 The employees database contains the following tables:<br>
 
-departments
+departments<br>
 ![departments](images/departments.PNG)<br>
 
-dept_emp
+dept_emp<br>
 ![dept_emp](images/dept_emp.PNG)<br>
 
-dept_manager
+dept_manager<br>
 ![dept_manager](images/dept_manager.PNG)<br>
 
-employees
+employees<br>
 ![employees](images/employees.PNG)<br>
 
-salaries
+salaries<br>
 ![salaries](images/salaries.PNG)<br>
 
-titles
+titles<br>
 ![titles](images/titles.PNG)<br>
 
 # Information needed by the COO:
