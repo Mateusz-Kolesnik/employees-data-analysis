@@ -76,9 +76,10 @@ involving data extraction using SQL and data visualization using Tableau.
 
 # Outputs and visualization:
 Question 1 and Question 5 do not require visualization, therefore their answers remain presented in the form of tables:<br>
-Question 1:<br>
-
-Question 5:<br>
+Answer 1:<br>
+![Answer_1](images/Answer_1.PNG)<br>
+Answer 5:<br>
+![Answer_5](images/Answer_5.PNG)<br>
 
 Remaining answers are presented in the final dashboard created in Tableau and can be found here:
 [Visualization in Tableau](https://public.tableau.com/app/profile/mateusz2359/viz/Employees_project/Employees_dashboard),<br>
@@ -87,3 +88,9 @@ Remaining answers are presented in the final dashboard created in Tableau and ca
 
 #Conclusions:
 The main conclusions that can be drawn from the analysis are as follows:
+1. There are currently 5 male managers and 4 female managers.
+2. Departments with the highest number of employees are Development (61,386) and Production (53,304).
+3. The trend in hiring was downward, with more men than women employed in each year.
+4. Average salaries for males and females were almost equal - there were no significant gender pay inequalities.
+5. Employee with the highest salary is Tokuyasu Pesch, earning 158 220 as Senior Staff in Sales department.
+6. The largest difference between the largest and smallest salary is in the Senior Staff position (119,208). The smallest difference is in the Manager position (49,837).
