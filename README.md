@@ -74,8 +74,16 @@ involving data extraction using SQL and data visualization using Tableau.
 6.	Difference between the maximum and minimum earnings for each position
 ![Query_6](images/Query_6.PNG)<br>
 
-# Visualization:
-The final dashboard created in Tableau can be found here:
+# Outputs and visualization:
+Question 1 and Question 5 do not require visualization, therefore their answers remain presented in the form of tables:<br>
+Question 1:<br>
+
+Question 5:<br>
+
+Remaining answers are presented in the final dashboard created in Tableau and can be found here:
 [Visualization in Tableau](https://public.tableau.com/app/profile/mateusz2359/viz/Employees_project/Employees_dashboard),<br>
-and looks as follows:
+<br>
 ![visualization](images/visualization.PNG)
+
+#Conclusions:
+The main conclusions that can be drawn from the analysis are as follows:
