@@ -18,18 +18,18 @@ The original lines of the license text can be found within the SQL file
 and are also available in a separate "original_license.txt" file.
 
 The employees database contains the following tables:<br>
-departments
-![departments](images/departments.PNG)
-dept_emp
-![dept_emp](images/dept_emp.PNG)
-dept_manager
-![dept_manager](images/dept_manager.PNG)
-employees
-![employees](images/employees.PNG)
-salaries
-![salaries](images/salaries.PNG)
-titles
-![titles](images/titles.PNG)
+departments<br>
+![departments](images/departments.PNG)<br>
+dept_emp<br>
+![dept_emp](images/dept_emp.PNG)<br>
+dept_manager<br>
+![dept_manager](images/dept_manager.PNG)<br>
+employees<br>
+![employees](images/employees.PNG)<br>
+salaries<br>
+![salaries](images/salaries.PNG)<br>
+titles<br>
+![titles](images/titles.PNG)<br>
 
 # Information needed by the COO:
 1.	List of departments with current managers
@@ -51,17 +51,17 @@ involving data extraction using SQL and data visualization using Tableau.
 
 # Queries used to obtain the information needed:
 1.	List of departments with current managers
-![Query_1](images/Query_1.PNG)
+![Query_1](images/Query_1.PNG)<br>
 2.	Number of employees in each department
-![Query_2](images/Query_2.PNG)
+![Query_2](images/Query_2.PNG)<br>
 3.	Number of male and female employees hired in years 1985-2002
-![Query_3](images/Query_3.PNG)
+![Query_3](images/Query_3.PNG)<br>
 4.	Average male and female salary in each department, years 1985-2002
-![Query_4](images/Query_4.PNG)
+![Query_4](images/Query_4.PNG)<br>
 5.	Highest earning employee
-![Query_5](images/Query_5.PNG)
+![Query_5](images/Query_5.PNG)<br>
 6.	Difference between the maximum and minimum earnings for each position
-![Query_6](images/Query_6.PNG)
+![Query_6](images/Query_6.PNG)<br>
 
 # Visualization:
 The final dashboard created in Tableau can be found here:
