@@ -1,1 +1,7 @@
-
+title: Employees Data Analysis
+description: >
+  The project aims to address six questions asked by the Chief Operating Officer.
+  This will be achieved by retrieving information from the employee database using SQL
+  and creating an interactive dashboard using Tableau.
+show_downloads: true
+theme: jekyll-theme-slate
