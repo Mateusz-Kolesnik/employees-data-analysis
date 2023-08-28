@@ -20,27 +20,21 @@ and are also available in a separate "original_license.txt" file.
 The employees database contains the following tables:<br>
 
 departments<br>
-
 ![departments](images/departments.PNG)<br>
 
 dept_emp<br>
-
 ![dept_emp](images/dept_emp.PNG)<br>
 
 dept_manager<br>
-
 ![dept_manager](images/dept_manager.PNG)<br>
 
 employees<br>
-
 ![employees](images/employees.PNG)<br>
 
 salaries<br>
-
 ![salaries](images/salaries.PNG)<br>
 
 titles<br>
-
 ![titles](images/titles.PNG)<br>
 
 # Information needed by the COO:
@@ -74,7 +68,8 @@ involving data extraction using SQL and data visualization using Tableau.
 4.	Average male and female salary in each department, years 1985-2002
 ![Query_4](images/Query_4.PNG)<br>
 
-5.	Highest earning employee
+5.	Highest earning employee<br>
+
 ![Query_5](images/Query_5.PNG)<br>
 
 6.	Difference between the maximum and minimum earnings for each position
@@ -82,6 +77,6 @@ involving data extraction using SQL and data visualization using Tableau.
 
 # Visualization:
 The final dashboard created in Tableau can be found here:
-[Visualization in Tableau](https://public.tableau.com/app/profile/mateusz2359/viz/Employees_project/Employees_dashboard),<br>
+[Visualization in Tableau](https://public.tableau.com/app/profile/mateusz2359/viz/Employees_project/Employees_dashboard){:target="_blank"},<br>
 and looks as follows:
 ![visualization](images/visualization.PNG)
