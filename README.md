@@ -89,7 +89,6 @@ Remaining answers are presented in the final dashboard created in Tableau and ca
 <br>
 ![visualization](images/visualization.PNG)<br>
 
-
 # Conclusions:
 The main conclusions that can be drawn from the analysis are as follows:
 1. There are currently 5 male managers and 4 female managers.
