@@ -8,8 +8,8 @@ MySQL Workbench, Tableau Public
 
 # Dataset:
 The dataset utilized in this project was sourced from:
-[The Business Intelligence Analyst Course 2023],
-[link to course](https://www.udemy.com/course/the-business-intelligence-analyst-course-2018/), 
+[The Business Intelligence Analyst Course 2023],<br>
+(https://www.udemy.com/course/the-business-intelligence-analyst-course-2018/), 
 created by 365 Careers, available on Udemy.
 
 The dataset remains unaltered and in its original form,
