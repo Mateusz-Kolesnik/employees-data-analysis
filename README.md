@@ -62,16 +62,16 @@ involving data extraction using SQL and data visualization using Tableau.
 2.	Number of employees in each department<br>
 ![Query_2](images/Query_2.PNG)<br>
 
-3.	Number of male and female employees hired in years 1985-2002
+3.	Number of male and female employees hired in years 1985-2002<br>
 ![Query_3](images/Query_3.PNG)<br>
 
-4.	Average male and female salary in each department, years 1985-2002
+4.	Average male and female salary in each department, years 1985-2002<br>
 ![Query_4](images/Query_4.PNG)<br>
 
-5.	Name, salary, title, and department of the highest earning employee
+5.	Name, salary, title, and department of the highest earning employee<br>
 ![Query_5](images/Query_5.PNG)<br>
 
-6.	Difference between the maximum and minimum earnings for each position
+6.	Difference between the maximum and minimum earnings for each position<br>
 ![Query_6](images/Query_6.PNG)<br>
 
 # Outputs and visualization:
