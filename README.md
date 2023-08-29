@@ -56,10 +56,10 @@ involving data extraction using SQL and data visualization using Tableau.
     insights derived from the extracted data in an intuitive manner, aiding informed decision-making.
 
 # Queries used to obtain the information needed:
-1.	List of departments with current managers
+1.	List of departments with current managers<br>
 ![Query_1](images/Query_1.PNG)<br>
 
-2.	Number of employees in each department
+2.	Number of employees in each department<br>
 ![Query_2](images/Query_2.PNG)<br>
 
 3.	Number of male and female employees hired in years 1985-2002
