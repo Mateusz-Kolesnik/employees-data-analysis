@@ -7,9 +7,9 @@ and creating an interactive dashboard.
 MySQL Workbench, Tableau Public
 
 # Dataset:
-The dataset utilized in this project was sourced from:
+The dataset utilized in this project was sourced from:<br>
 [The Business Intelligence Analyst Course 2023],<br>
-https://www.udemy.com/course/the-business-intelligence-analyst-course-2018/, 
+(https://www.udemy.com/course/the-business-intelligence-analyst-course-2018/),<br>
 created by 365 Careers, available on Udemy.
 
 The dataset remains unaltered and in its original form,
