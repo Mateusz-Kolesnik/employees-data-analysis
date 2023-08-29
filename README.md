@@ -9,7 +9,7 @@ MySQL Workbench, Tableau Public
 # Dataset:
 The dataset utilized in this project was sourced from:
 [The Business Intelligence Analyst Course 2023]
-https://www.udemy.com/course/the-business-intelligence-analyst-course-2018/ 
+[Link to course](https://www.udemy.com/course/the-business-intelligence-analyst-course-2018/) 
 created by 365 Careers, available on Udemy.
 
 The dataset remains unaltered and in its original form,
@@ -49,9 +49,9 @@ titles<br>
 This project follows a two-step approach to address the Chief Operating Officer's questions,
 involving data extraction using SQL and data visualization using Tableau.
 
-1.	Data Extraction with SQL: Data is extracted from the employee database using SQL queries,
+1.	Data Extraction with SQL: Data is extracted from the employees database using SQL queries,
     addressing the COO's six questions and ensuring data accuracy.
-  	Outputs are saved as CSV files which are then opened in Tableau.
+  	Outputs are saved as CSV files which are then imported to Tableau.
 2.	Visualization via Tableau: Tableau is used to create interactive visualizations that present
     insights derived from the extracted data in an intuitive manner, aiding informed decision-making.
 
@@ -95,5 +95,5 @@ The main conclusions that can be drawn from the analysis are as follows:
 2. Departments with the highest number of employees are Development (61,386) and Production (53,304).
 3. The trend in hiring was downward, with more men than women employed in each year.
 4. Average salaries for males and females were almost equal - there were no significant gender pay inequalities.
-5. Employee with the highest salary is Tokuyasu Pesch, earning 158 220 as Senior Staff in Sales department.
+5. Employee with the highest salary is Tokuyasu Pesch, earning 158,220 as Senior Staff in Sales department.
 6. The largest difference between the largest and smallest salary is in the Senior Staff position (119,208). The smallest difference is in the Manager position (49,837).
