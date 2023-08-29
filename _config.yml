@@ -1,6 +1,7 @@
 title: Employees Data Analysis
 description: >
-  In this project, I utilized SQL and Tableau to analyse employees data.
-  I extracted data with SQL and created interactive visualizations using Tableau.
+  In this project I used SQL queries to retrieve data from the employees database.
+  After extracting relevant data, I created an interactive dashboard using Tableau
+  to illustrate the outcomes in a clear and accessible manner. 
 show_downloads: true
 theme: jekyll-theme-slate
