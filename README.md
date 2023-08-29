@@ -96,4 +96,4 @@ The main conclusions that can be drawn from the analysis are as follows:
 3. The trend in hiring was downward, with more men than women employed in each year.
 4. Average salaries for males and females were almost equal - there were no significant gender pay inequalities.
 5. Employee with the highest salary is Tokuyasu Pesch, earning 158,220 as Senior Staff in Sales department.
-6. The largest difference between the largest and smallest salary is in the Senior Staff position (119,208). The smallest difference is in the Manager position (49,837).
+6. The largest difference between the highest and lowest salary is in the Senior Staff position (119,208). The smallest difference is in the Manager position (49,837).
