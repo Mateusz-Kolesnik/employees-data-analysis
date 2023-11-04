@@ -87,8 +87,7 @@ Answer 5:<br>
 Remaining answers are presented in the final dashboard created in Tableau and can be found here:
 [Visualization in Tableau](https://public.tableau.com/app/profile/mateusz2359/viz/Employees_project/Employees_dashboard)<br>
 <br>
-*The alignment of charts in the dashboard may vary depending on the screen size and may differ from what is shown on the screenshot below*
-
+The alignment of charts in the dashboard may vary depending on the screen size and may differ from what is shown on the screenshot below.
 
 <br>
 ![visualization_2](images/visualization_2.png)<br>
