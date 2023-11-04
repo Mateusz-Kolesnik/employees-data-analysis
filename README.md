@@ -87,7 +87,9 @@ Answer 5:<br>
 Remaining answers are presented in the final dashboard created in Tableau and can be found here:
 [Visualization in Tableau](https://public.tableau.com/app/profile/mateusz2359/viz/Employees_project/Employees_dashboard)<br>
 <br>
-![visualization](images/visualization.PNG)<br>
+The alignment of charts in the dashboard may vary depending on the screen size and may differ from what is shown on the screenshot.
+<br>
+![visualization](images/visualization_2.PNG)<br>
 
 # Conclusions:
 The main conclusions that can be drawn from the analysis are as follows:
